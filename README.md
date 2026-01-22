@@ -3,6 +3,11 @@ sch:
 - https://www.google.com/search?q=LM2596+DC-DC
 - https://www.google.com/search?q=LM2596+converter
 
+# Specifications & Features
+- Input Voltage: 3V-40V DC (Note: Input must be at least 1.5V higher than the desired output).
+- Output Voltage: 1.5V-35V (Adjustable via onboard potentiometer).
+- Output Current: 2A sustained, up to 3A maximum (requires a heatsink for higher currents).
+
 # DataSheet:
 - https://www.ti.com/lit/ds/symlink/lm2596.pdf
 - https://www.onsemi.com/download/data-sheet/pdf/lm2596-d.pdf
